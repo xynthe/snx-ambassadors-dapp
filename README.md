@@ -1,4 +1,4 @@
-# Synthethix Ambassadors
+# Xynthe Ambassadors
 
 ## Getting started
 
